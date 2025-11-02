@@ -86,7 +86,7 @@ export default function HomePage() {
                     DevOps pipeline — from Dockerization to continuous
                     deployment using GitHub Actions and Jenkins.
                   </p>
-                  <Link href="/">
+                  <Link href="https://github.com/ctrl-nikunj/devops-proj">
                     <Button
                       className="bg-white/20 hover:bg-white/30 text-white px-6 py-3 text-lg"
                     >
