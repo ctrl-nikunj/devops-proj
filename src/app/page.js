@@ -79,7 +79,7 @@ export default function HomePage() {
               <ScrollFadeIn>
                 <section className="text-center mb-20">
                   <h1 className="text-5xl font-bold mb-6">
-                    CI/CD. Docker. Cloud Deployment.
+                    CI/CD. Docker. Cloud Deployment
                   </h1>
                   <p className="text-lg text-zinc-200 max-w-2xl mx-auto mb-8">
                     A minimal Next.js frontend project to demonstrate a complete
