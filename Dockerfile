@@ -1,4 +1,3 @@
-# Stage 1: Build the Next.js app
 FROM node:22-alpine AS builder
 WORKDIR /app
 
@@ -8,7 +7,6 @@ RUN npm install
 COPY . .
 RUN npm run build
 
-# Stage 2: Run the app
 FROM node:22-alpine AS runner
 WORKDIR /app
 
